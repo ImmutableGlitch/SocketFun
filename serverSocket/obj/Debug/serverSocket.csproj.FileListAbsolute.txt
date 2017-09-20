@@ -1,0 +1,6 @@
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\serverSocket\bin\Debug\serverSocket.exe.config
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\serverSocket\bin\Debug\serverSocket.exe
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\serverSocket\bin\Debug\serverSocket.pdb
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\serverSocket\obj\Debug\serverSocket.csproj.CoreCompileInputs.cache
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\serverSocket\obj\Debug\serverSocket.exe
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\serverSocket\obj\Debug\serverSocket.pdb

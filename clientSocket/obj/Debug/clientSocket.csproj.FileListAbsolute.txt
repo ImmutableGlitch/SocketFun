@@ -1,0 +1,14 @@
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\clientSocket\bin\Debug\clientSocket.exe.config
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\clientSocket\bin\Debug\clientSocket.exe
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\clientSocket\bin\Debug\clientSocket.pdb
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\clientSocket\obj\Debug\MainWindow.g.cs
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\clientSocket\obj\Debug\App.g.cs
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\clientSocket\obj\Debug\clientSocket_MarkupCompile.cache
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\clientSocket\obj\Debug\clientSocket_MarkupCompile.lref
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\clientSocket\obj\Debug\MainWindow.baml
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\clientSocket\obj\Debug\clientSocket.g.resources
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\clientSocket\obj\Debug\clientSocket.Properties.Resources.resources
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\clientSocket\obj\Debug\clientSocket.csproj.GenerateResource.Cache
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\clientSocket\obj\Debug\clientSocket.csproj.CoreCompileInputs.cache
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\clientSocket\obj\Debug\clientSocket.exe
+E:\Hobbies\Programming\DotNET\Projects\solServerSocket\clientSocket\obj\Debug\clientSocket.pdb
